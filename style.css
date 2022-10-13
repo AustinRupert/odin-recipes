@@ -21,9 +21,15 @@ background-color: red;
 color:white;
 }
 
-li {
+.wings,.tostadas,.salsa {
     text-align: center;
     font-size: 30px;
 }
 
+.home {
+    text-align: center;
+}
 
+.instructions {
+    text-align: center;
+}
