@@ -1,0 +1,29 @@
+.font {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    background-color: green;
+    color: white;
+}
+
+.flags {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.quote {
+text-align: center;
+background-color: red;
+color:white;
+}
+
+li {
+    text-align: center;
+    font-size: 30px;
+}
+
+
