@@ -31,5 +31,6 @@ color:white;
 }
 
 .instructions {
-    text-align: center;
+    background-color: red;
+    color: white;
 }
