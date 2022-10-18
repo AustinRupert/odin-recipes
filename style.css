@@ -43,3 +43,7 @@ color:white;
 #wings {
     background-color: red;
 }
+
+.wings.instructions,.wings.ingredients {
+    background-color: blue;
+}
