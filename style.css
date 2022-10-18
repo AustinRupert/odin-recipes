@@ -2,7 +2,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.header {
+.header,#wings {
     text-align: center;
     font-size: 40px;
     background-color: green;
@@ -38,4 +38,8 @@ color:white;
 .ingredients {
   background-color: red;
   color: white;  
+}
+
+#wings {
+    background-color: red;
 }
