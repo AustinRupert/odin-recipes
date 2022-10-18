@@ -33,11 +33,13 @@ color:white;
 .instructions {
     background-color: red;
     color: white;
+    font-size: 25px;  
 }
 
 .ingredients {
   background-color: red;
-  color: white;  
+  color: white;
+  font-size: 25px;  
 }
 
 #wings {
